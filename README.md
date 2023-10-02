@@ -1,8 +1,8 @@
 # LarapiKit
 
-[![Latest Stable Version](https://poser.pugx.org/your-vendor/your-package/v/stable)](https://packagist.org/packages/piratepixelx/larapikit)
-[![Total Downloads](https://poser.pugx.org/your-vendor/your-package/downloads)](https://packagist.org/packages/piratepixelx/larapikit)
-[![License](https://poser.pugx.org/your-vendor/your-package/license)](https://packagist.org/packages/piratepixelx/larapikit)
+[![Latest Stable Version](https://poser.pugx.org/piratepixelx/larapikit/v/stable)](https://packagist.org/packages/piratepixelx/larapikit)
+[![Total Downloads](https://poser.pugx.org/piratepixelx/larapikit/downloads)](https://packagist.org/packages/piratepixelx/larapikit)
+[![License](https://poser.pugx.org/piratepixelx/larapikit/license)](https://packagist.org/packages/piratepixelx/larapikit)
 
 ## Introduction
 

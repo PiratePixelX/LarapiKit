@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Piratepixelx\\Larapikit\\": "src/"
+            "PiratePixelX\\LarapiKit\\": "src/"
         }
     },
     "authors": [
@@ -14,8 +14,24 @@
             "email": "admin@mdraihanhasan.info"
         }
     ],
+    "keywords": [
+        "laravel",
+        "laravel-api",
+        "larapikit",
+        "laravel-api-package",
+        "LarapiKit",
+        "PiratePixelX"
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "PiratePixelX\\LarapiKit\\Providers\\ApiKeyAuthProvider"
+            ]
+        }
+    },
     "require": {
+        "php": "^7.4|^8.0",
+        "laravel/framework": "^8.0|^9.0|^10.0",
         "guzzlehttp/guzzle": "^7.0.1"
     }
-
 }
